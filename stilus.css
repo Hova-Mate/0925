@@ -1,0 +1,25 @@
+/* Táblázat beállításai */
+table {
+        border-collapse:collapse;  /* szegély összevonása*/
+        background-color: lightblue;
+      }
+td,th { 
+        border:1px solid black;   /* szegély beállítása */
+        padding: 10px;              /* kitöltés (belső margó) beállítása */  
+       }
+
+
+/* További beállítások a feladat szerint */
+caption{
+        font-style: italic;
+}
+
+h1{
+        color: blue;
+        font-family: Arial, Verdana, sans-serif;
+}
+
+h2{
+        font-family: Arial, Verdana, sans-serif;
+
+}
